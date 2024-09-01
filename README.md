@@ -1,4 +1,4 @@
-## Hi there 👋 I am Behnaz
+## Hi, I'm Behnaz 👋
 
 <!--
 **behnazeslami/behnazeslami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -41,7 +41,6 @@ A little more about me...
     <span class="pl-c1">askMeAbout</span>: <span class="pl-kos">[</span><span class="pl-s">"ML"</span><span class="pl-kos">,</span> <span class="pl-s">"LLMs"</span><span class="pl-kos">,</span><span class="pl-s">"Tech"</span>]</span><span class="pl-kos">,</span>
     <span class="pl-c1">technologies</span>: <span class="pl-kos">{</span>
         <span class="pl-c1">DL</span>: <span class="pl-kos">[</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
-        <span class="pl-c1">AIForHealthcare</span>: <span class="pl-kos">[</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
         <span class="pl-c1">database</span>: <span class="pl-s">"MySQL, PostgreSQL"</span>
     <span class="pl-kos">}</span>
 <span class="pl-kos">}</span></pre></div>

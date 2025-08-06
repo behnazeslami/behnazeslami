@@ -38,7 +38,7 @@ A little more about me...
     <span class="pl-c1">motto</span>: <span class="pl-s">"Failure doesn't mean the end of the road. It can lay the groundwork for something even greater."</span><span class="pl-kos">,</span>
     <span class="pl-c1">websiteUrl</span>: <span class="pl-s">"#"</span><span class="pl-kos">,</span>
     <span class="pl-c1">code</span>: <span class="pl-kos">[</span><span class="pl-s">"Python"</span><span class="pl-kos">,</span> <span class="pl-s">"JAVA"</span><span class="pl-kos">,</span> <span class="pl-s">"PHP"</span><span class="pl-kos">,</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
-    <span class="pl-c1">askMeAbout</span>: <span class="pl-kos">[</span><span class="pl-s">"ML"</span><span class="pl-kos">,</span> <span class="pl-s">"LLMs"</span><span class="pl-kos">,</span><span class="pl-s">"Tech"</span><span class="pl-kos">,</span> <span class="pl-s">"Digital Health"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
+    <span class="pl-c1">askMeAbout</span>: <span class="pl-kos">[</span><span class="pl-s">"ML"</span><span class="pl-kos">,</span> <span class="pl-s">"LLMs"</span><span class="pl-kos">,</span><span class="pl-s">"Tech"</span>]</span><span class="pl-kos">,</span>
     <span class="pl-c1">technologies</span>: <span class="pl-kos">{</span>
         <span class="pl-c1">DL</span>: <span class="pl-kos">[</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
         <span class="pl-c1">AIForHealthcare</span>: <span class="pl-kos">[</span><span class="pl-kos">]</span><span class="pl-kos">,</span>

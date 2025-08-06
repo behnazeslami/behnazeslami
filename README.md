@@ -27,7 +27,7 @@ A little more about me...
     motto: &quot;Failure doesn't mean the end of the road. It can lay the groundwork for something even greater.&quot;,
     websiteUrl: &quot;#&quot;,
     code: [&quot;Python&quot;, &quot;MATLAB&quot;, &quot;R&quot;, &quot;C++&quot;, &quot;C&quot;],
-    askMeAbout: [&quot;ML&quot;, &quot;Tech&quot;, &quot;Digital Health&quot;],
+    askMeAbout: [&quot;ML&quot;, &quot;Tech&quot;],
     technologies: {
         DL: [],
         AIForHealthcare: [],

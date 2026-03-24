@@ -18,7 +18,7 @@
 </p><div align="center" dir="auto">
 </div>
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6f9296a4c8b352a3a335f257ccf592c010c5f578a17a2f8d7ef407efe5dbe6a9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"><img src="https://camo.githubusercontent.com/6f9296a4c8b352a3a335f257ccf592c010c5f578a17a2f8d7ef407efe5dbe6a9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-animated-image="" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width: 100%;"></a></p> 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6f9296a4c8b352a3a335f257ccf592c010c5f578a17a2f8d7ef407efe5dbe6a9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"></a></p> 
 
 A little more about me...
 <div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="var Behnaz = { // I am a variable rather than a constant.

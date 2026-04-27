@@ -73,6 +73,12 @@ Domain-specific embeddings (BioBERT, clinical sentence transformers), performanc
 
 ## 📄 Selected Publications
 
+> **2026** &nbsp;|&nbsp; 📕 **A Hybrid Language Framework for Ontology-Based Clinical Concept Extraction**
+> *Journal of Healthcare Informatics Research* &nbsp;·&nbsp; Springer &nbsp;·&nbsp; [doi:10.1007/s41666-026-00232-0](https://link.springer.com/article/10.1007/s41666-026-00232-0) &nbsp;·&nbsp; [[PDF]](https://www.researchgate.net/profile/Behnaz-Eslami/publication/401258282_A_Hybrid_Language_Framework_for_Ontology-Based_Clinical_Concept_Extraction/links/69b1c7b7e4cc384db521d422/A-Hybrid-Language-Framework-for-Ontology-Based-Clinical-Concept-Extraction.pdf)
+> *Behnaz Eslami · Dmitriy Dligach · Nazanin Azarvash · Paula de la Pena · Benjamin Strickland · Samie Tootooni*
+> SparkNLP NER · SentenceBERT · LLaMA3-8B · Mistral-7B · UMLS · SNOMED CT · MIMIC-III discharge summaries
+
+
 > **2025** &nbsp;|&nbsp; 📘 **Toward Digital Twins in the Intensive Care Unit: A Medication Management Case Study**
 > *Journal of the American Medical Informatics Association (JAMIA)* &nbsp;·&nbsp; [doi:10.1093/jamia/ocaf127](https://doi.org/10.1093/jamia/ocaf127)
 > LLaMA-3 + LoRA fine-tuned on MIMIC-III · BERTScore 0.842 · Medical ICU specialty adaptation

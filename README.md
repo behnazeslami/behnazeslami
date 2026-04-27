@@ -18,6 +18,9 @@
 
 ### 🩺 About Me
 
+
+<img align="right" width="40%" src="https://miro.medium.com/v2/resize:fit:875/0*yBvA5CnEX3Sd4aod.gif"/>
+
 I'm a **Ph.D. Candidate** in Computer Science & Health Informatics at **Loyola University Chicago**, building AI systems at the intersection of **Large Language Models** and **clinical medicine**.
 
 My research focuses on extracting structured knowledge from unstructured clinical text — ICU physician notes, EHRs, and clinical narratives — to build AI tools that genuinely support patient care at the bedside and beyond.
@@ -26,6 +29,8 @@ My research focuses on extracting structured knowledge from unstructured clinica
 - 🏥 Graduate Research Assistant · Loyola University Chicago
 - 📍 Chicago, IL
 - 💬 Ask me about **Clinical NLP, LLMs, EHR AI, Digital Twins, SparkNLP Healthcare**
+
+<br clear="right"/>
 
 <br clear="right"/>
 

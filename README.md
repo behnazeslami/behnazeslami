@@ -80,11 +80,11 @@ Domain-specific embeddings (BioBERT, clinical sentence transformers), performanc
 
 
 > **2025** &nbsp;|&nbsp; 📘 **Toward Digital Twins in the Intensive Care Unit: A Medication Management Case Study**
-> *Journal of the American Medical Informatics Association (JAMIA)* &nbsp;·&nbsp; [doi:10.1093/jamia/ocaf127](https://doi.org/10.1093/jamia/ocaf127)
+> *Journal of the American Medical Informatics Association (JAMIA)* &nbsp;·&nbsp; [doi:10.1093/jamia/ocaf127](https://doi.org/10.1093/jamia/ocaf127) &nbsp;·&nbsp;
 > *Behnaz Eslami · Majid Afshar . Samie Tootooni . Timothy Miller . Matthew Churpek . Yanjun Gao . Dmitriy Dligach*
 > LLaMA-3 + LoRA fine-tuned on MIMIC-III · BERTScore 0.842 · Medical ICU specialty adaptation
 
-> **2025** &nbsp;|&nbsp; 📗 **A Performance-Based Voting Framework for Assertion Detection in Clinical Notes**
+> **2025** &nbsp;|&nbsp; 📗 **A Performance-Based Voting Framework for Assertion Detection in Clinical Notes** &nbsp;·&nbsp;
 > *Behnaz Eslami · Dmitriy Dligach . Benjamin Strickland · Nazanin Azarvash .  Samie Tootooni*
 > BioBERT · domain-specific embeddings · performance-driven voting mechanism
 

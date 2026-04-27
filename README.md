@@ -24,7 +24,7 @@ My research focuses on extracting structured knowledge from unstructured clinica
 
 - 🔬 **88 citations · 14 publications · 2,100+ reads**
 - 🏥 Graduate Research Assistant · Loyola University Chicago
-- 📍 Chicago, IL · she/her
+- 📍 Chicago, IL
 - 💬 Ask me about **Clinical NLP, LLMs, EHR AI, Digital Twins, SparkNLP Healthcare**
 
 <br clear="right"/>

@@ -75,17 +75,17 @@ Domain-specific embeddings (BioBERT, clinical sentence transformers), performanc
 
 > **2026** &nbsp;|&nbsp; 📕 **A Hybrid Language Framework for Ontology-Based Clinical Concept Extraction**
 > *Journal of Healthcare Informatics Research* &nbsp;·&nbsp; Springer &nbsp;·&nbsp; [doi:10.1007/s41666-026-00232-0](https://link.springer.com/article/10.1007/s41666-026-00232-0) &nbsp;·&nbsp;
-> *Behnaz Eslami · Dmitriy Dligach · Nazanin Azarvash · Paula de la Pena · Benjamin Strickland · Samie Tootooni*
+> ***Behnaz Eslami** · Dmitriy Dligach · Nazanin Azarvash · Paula de la Pena · Benjamin Strickland · Samie Tootooni* &nbsp;--&nbsp;
 > SparkNLP NER · SentenceBERT · LLaMA3-8B · Mistral-7B · UMLS · SNOMED CT · MIMIC-III discharge summaries
 
 
 > **2025** &nbsp;|&nbsp; 📘 **Toward Digital Twins in the Intensive Care Unit: A Medication Management Case Study**
 > *Journal of the American Medical Informatics Association (JAMIA)* &nbsp;·&nbsp; [doi:10.1093/jamia/ocaf127](https://doi.org/10.1093/jamia/ocaf127) &nbsp;·&nbsp;
-> *Behnaz Eslami · Majid Afshar . Samie Tootooni . Timothy Miller . Matthew Churpek . Yanjun Gao . Dmitriy Dligach*
+> ***Behnaz Eslami** · Majid Afshar . Samie Tootooni . Timothy Miller . Matthew Churpek . Yanjun Gao . Dmitriy Dligach* &nbsp;--&nbsp;
 > LLaMA-3 + LoRA fine-tuned on MIMIC-III · BERTScore 0.842 · Medical ICU specialty adaptation
 
 > **2025** &nbsp;|&nbsp; 📗 **A Performance-Based Voting Framework for Assertion Detection in Clinical Notes** &nbsp;·&nbsp;
-> *Behnaz Eslami · Dmitriy Dligach . Benjamin Strickland · Nazanin Azarvash .  Samie Tootooni*
+> ***Behnaz Eslami** · Dmitriy Dligach . Benjamin Strickland · Nazanin Azarvash .  Samie Tootooni* &nbsp;--&nbsp;
 > BioBERT · domain-specific embeddings · performance-driven voting mechanism
 
 <div align="center">

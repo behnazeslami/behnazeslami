@@ -89,7 +89,7 @@ Domain-specific embeddings (BioBERT, clinical sentence transformers), performanc
 
 [![Scholar](https://img.shields.io/badge/Full%20Publication%20List-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ZCOlXioAAAAJ&hl=en)
 &nbsp;
-![Citations](https://img.shields.io/badge/Citations-78-0f766e?style=flat-square)
+![Citations](https://img.shields.io/badge/Citations-88-0f766e?style=flat-square)
 &nbsp;
 ![Papers](https://img.shields.io/badge/Papers-14-0f766e?style=flat-square)
 &nbsp;

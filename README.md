@@ -14,8 +14,7 @@
 </div>
 
 <br>
-
-<img align="right" width="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behnazeslami&layout=compact&theme=default&hide_border=true&title_color=0f766e&text_color=3d4451&bg_color=fafaf8"/>
+<!-- <img align="right" width="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behnazeslami&layout=compact&theme=default&hide_border=true&title_color=0f766e&text_color=3d4451&bg_color=fafaf8"/> -->
 
 ### 🩺 About Me
 

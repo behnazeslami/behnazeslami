@@ -76,7 +76,7 @@ Domain-specific embeddings (BioBERT, clinical sentence transformers), performanc
 > **2026** &nbsp;|&nbsp; 📕 **A Hybrid Language Framework for Ontology-Based Clinical Concept Extraction**
 > *Journal of Healthcare Informatics Research* &nbsp;·&nbsp; Springer &nbsp;·&nbsp; [doi:10.1007/s41666-026-00232-0](https://link.springer.com/article/10.1007/s41666-026-00232-0) &nbsp;·&nbsp;
 > ***Behnaz Eslami** · Dmitriy Dligach · Nazanin Azarvash · Paula de la Pena · Benjamin Strickland · Samie Tootooni* &nbsp;--&nbsp;
-> SparkNLP NER · SentenceBERT · LLaMA3-8B · Mistral-7B · UMLS · SNOMED CT · MIMIC-III discharge summaries
+> SparkNLP NER · SentenceBERT · LLaMA3-8B · Mistral-7B · UMLS · SNOMED CT · MIMIC-III Discharge Summaries
 
 
 > **2025** &nbsp;|&nbsp; 📘 **Toward Digital Twins in the Intensive Care Unit: A Medication Management Case Study**

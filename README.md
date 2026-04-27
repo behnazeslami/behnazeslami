@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Google Scholar](https://img.shields.io/badge/Scholar-78%20Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ZCOlXioAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Scholar-88%20Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ZCOlXioAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-14%20Papers-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Behnaz-Eslami)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/behnaz-eslami-3b800055)
 [![Email](https://img.shields.io/badge/Email-beslami@luc.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beslami@luc.edu)
